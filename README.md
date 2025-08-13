@@ -1,4 +1,4 @@
-##📝 Notes Taking App
+## 📝 Notes Taking App
 
 - A simple and responsive Notes Taking App built with HTML, CSS, and JavaScript.
 It allows users to create, edit, and delete notes directly in the browser, with all data stored in local storage.
